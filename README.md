@@ -17,41 +17,40 @@
 <details>
 <summary>Translations:</summary>
 
-- [اردو - Urdu](translations/README-ur.md)
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
 - [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [Uzbek](translations/README-uz.md)
 - [Bulgarian](translations/README-bg.md)
+- [Español](translations/README-es.md)
+- [German](translations/README-de.md)
+- [Japanese (日本語)](translations/README-ja.md)
+- [Polish](translations/README-pl.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+- [Russian](translations/README-ru.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Urdu - اردو](tanslations/README-ur.md)
+- [Uzbek](translations/README-uz.md)
 - [বাংলা - Bangla](translations/README-bn.md)
-
+- [ខ្មែរ - Khmer](translations/README-kh.md)
+- [中文版本](translations/README-cn.md)
+- [繁體中文](translations/README-tw.md)
 </details>
 
 <details>
 <summary>Translations in progress:</summary>
 
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
 - [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
 - [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
+- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
-- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
+- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
+- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
+- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
+- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
+- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 </details>
 
 <div align="center">
@@ -102,51 +101,61 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ### Topics of Study
 
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
-  - [Arrays](#arrays)
-  - [Linked Lists](#linked-lists)
-  - [Stack](#stack)
-  - [Queue](#queue)
-  - [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-  - [Binary search](#binary-search)
-  - [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
-  - [Trees - Intro](#trees---intro)
-  - [Binary search trees: BSTs](#binary-search-trees-bsts)
-  - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-  - balanced search trees (general concept, not details)
-  - traversals: preorder, inorder, postorder, BFS, DFS
-- [Sorting](#sorting)
-  - selection
-  - insertion
-  - heapsort
-  - quicksort
-  - mergesort
-- [Graphs](#graphs)
-  - directed
-  - undirected
-  - adjacency matrix
-  - adjacency list
-  - traversals: BFS, DFS
-- [Even More Knowledge](#even-more-knowledge)
-  - [Recursion](#recursion)
-  - [Dynamic Programming](#dynamic-programming)
-  - [Design Patterns](#design-patterns)
-  - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
-  - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
-  - [How computers process a program](#how-computers-process-a-program)
-  - [Caches](#caches)
-  - [Processes and Threads](#processes-and-threads)
-  - [Testing](#testing)
-  - [String searching & manipulations](#string-searching--manipulations)
-  - [Tries](#tries)
-  - [Floating Point Numbers](#floating-point-numbers)
-  - [Unicode](#unicode)
-  - [Endianness](#endianness)
-  - [Networking](#networking)
-- [Final Review](#final-review)
+- [Coding Interview University](#coding-interview-university)
+  - [What is it?](#what-is-it)
+  - [Table of Contents](#table-of-contents)
+    - [The Study Plan](#the-study-plan)
+    - [Topics of Study](#topics-of-study)
+    - [Getting the Job](#getting-the-job)
+    - [Optional Extra Topics \& Resources](#optional-extra-topics--resources)
+  - [Why use it?](#why-use-it)
+  - [How to use it](#how-to-use-it)
+    - [If you don't want to use git](#if-you-dont-want-to-use-git)
+    - [If you're comfortable with git](#if-youre-comfortable-with-git)
+  - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+  - [A Note About Video Resources](#a-note-about-video-resources)
+  - [Choose a Programming Language](#choose-a-programming-language)
+    - [For this Study Plan](#for-this-study-plan)
+    - [For your Coding Interview](#for-your-coding-interview)
+  - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+    - [C](#c)
+    - [Python](#python)
+    - [Java](#java)
+    - [C++](#c-1)
+  - [Interview Prep Books](#interview-prep-books)
+    - [If you have tons of extra time:](#if-you-have-tons-of-extra-time)
+  - [Don't Make My Mistakes](#dont-make-my-mistakes)
+    - [1. You Won't Remember it All](#1-you-wont-remember-it-all)
+    - [2. Use Flashcards](#2-use-flashcards)
+    - [3. Do Coding Interview Questions While You're Learning](#3-do-coding-interview-questions-while-youre-learning)
+    - [4. Focus](#4-focus)
+  - [What you won't see covered](#what-you-wont-see-covered)
+  - [The Daily Plan](#the-daily-plan)
+  - [Coding Question Practice](#coding-question-practice)
+  - [Coding Problems](#coding-problems)
+  - [Let's Get Started](#lets-get-started)
+  - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+  - [Data Structures](#data-structures)
+  - [More Knowledge](#more-knowledge)
+  - [Trees](#trees)
+  - [Sorting](#sorting)
+  - [Graphs](#graphs)
+  - [Even More Knowledge](#even-more-knowledge)
+  - [Final Review](#final-review)
+  - [Update Your Resume](#update-your-resume)
+  - [Interview Process \& General Interview Prep](#interview-process--general-interview-prep)
+  - [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+  - [Have questions for the interviewer](#have-questions-for-the-interviewer)
+  - [Once You've Got The Job](#once-youve-got-the-job)
+  - [Additional Books](#additional-books)
+  - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
+  - [Additional Learning](#additional-learning)
+  - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+  - [Video Series](#video-series)
+  - [Computer Science Courses](#computer-science-courses)
+  - [Algorithms implementation](#algorithms-implementation)
+  - [Papers](#papers)
+  - [LICENSE](#license)
 
 ### Getting the Job
 
@@ -591,7 +600,7 @@ But don't forget to do coding problems from above while you learn!
   - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
   - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 Well, that's about enough of that.
 
@@ -1256,7 +1265,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
   - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (46 videos):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (48 videos):
   - [Videos](https://www.youtube.com/@MichaelSambol)
   - [Code Examples](https://github.com/msambol/dsa)
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
