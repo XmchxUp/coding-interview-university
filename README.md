@@ -723,14 +723,14 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
   - [ ] Online Courses:
 
-    - [ ] [Core Hash Tables (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
+    - [x] [Core Hash Tables (video)](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-hash-tables-m7UuP)
     - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/4)
     - [ ] [Phone Book Problem (video)](https://www.coursera.org/lecture/data-structures/phone-book-problem-NYZZP)
     - [ ] distributed hash tables:
       - [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/lecture/data-structures/instant-uploads-and-storage-optimization-in-dropbox-DvaIb)
       - [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
-  - [ ] Implement with array using linear probing
+  - [x] Implement with array using linear probing
     - hash(k, m) - m is the size of the hash table
     - add(key, value) - if the key already exists, update value
     - exists(key)
